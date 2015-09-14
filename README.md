@@ -1,4 +1,4 @@
 # 11th-Python
-Spring 2014, Python 1
+Junior year at ASMSA! Spring semester :3
 
 WOW I NEED TO ORGANIZE THIS SHIT LOL
