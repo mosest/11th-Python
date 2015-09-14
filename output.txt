@@ -1,0 +1,7 @@
+Count: 11
+Mode: 7
+Median: 6
+Min: 1
+Max: 13
+Mean: 5.72727272727
+Standard Deviation: 3.16489003373
